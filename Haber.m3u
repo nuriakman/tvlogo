@@ -8,3 +8,22 @@ https://ciner-live.ercdn.net/haberturk/haberturk_360p.m3u8?e=1644774525&st=3tWPI
 
 #EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="" group-title="Haber" radio="false",NHK World
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg" group-title="Haber" radio="false",Haber Global
+https://stream-11.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpqAS4TqLxfVGlusjHeJvt2Q)/dm/3/x81x3cd/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HaberTürk" tvg-logo="" group-title="Haber" radio="false",HaberTürk
+https://ciner-live.ercdn.net/haberturk/haberturk_360p.m3u8?e=1644774525&st=3tWPINPAdtcONKV-afH_eA&tv=1
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="" group-title="Haber" radio="false",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Haber Global" tvg-logo="https://www.lyngsat.com/logo/tv/hh/haber-global-tr.svg" group-title="Haber" radio="false",Haber Global
+https://stream-11.dc3.dailymotion.com/sec(JtO5HO8PrOFTKKYNhfGSpqAS4TqLxfVGlusjHeJvt2Q)/dm/3/x81x3cd/s/live-1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HaberTürk" tvg-logo="" group-title="Haber" radio="false",HaberTürk
+https://ciner-live.ercdn.net/haberturk/haberturk_360p.m3u8?e=1644774525&st=3tWPINPAdtcONKV-afH_eA&tv=1
+
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="" group-title="Haber" radio="false",NHK World
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
